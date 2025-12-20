@@ -72,7 +72,7 @@ The following contributions are accepted:
     <td>
       <ul>
         <li>Core changes impact all rendering process, so extra care is needed</li>
-        <li>New dependencies should be avoided unless necessary</li>
+        <li>New dependencies should be avoided when possible</li>
       </ul>
     </td>
   </tr>
